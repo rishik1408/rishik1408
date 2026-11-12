@@ -134,6 +134,16 @@
 
 ---
 
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rishik1408&hide_current_streak=true&hide_longest_streak=true&theme=radical&hide_border=true" alt="Total GitHub Contributions" />
+
+</div>
+
+---
+
 ### Let's Connect!
 
 <div align="center">
