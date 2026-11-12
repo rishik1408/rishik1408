@@ -134,21 +134,6 @@
 
 ---
 
-### GitHub Activity & Metrics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishik1408&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Rishik's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishik1408&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rishik1408&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ### Let's Connect!
 
 <div align="center">
