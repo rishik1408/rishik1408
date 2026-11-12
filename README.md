@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rishik 
+# Hey, I'm Rishik M
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vcenter=true&width=550&lines=CSE+(AI+%26+ML)+Undergrad+%40+RNSIT;Full-Stack+%26+IoT+Developer;INVENTRA-2026+Best+Project+Award+Winner;Building+Impactful+Tech+Solutions)](https://git.io/typing-svg)
 
@@ -17,14 +17,14 @@
 ### About Me
 
 -  **Sophomore** pursuing a Bachelor of Engineering (B.E) in **Computer Science & Engineering (AI & ML)** at **RNS Institute of Technology (RNSIT)**, Bangalore.
--  **Award-Winning Project:** Won the prestigious **Best Project Award at INVENTRA-2026** for architecting and building **geoVend** — an IoT-driven smart street vendor management platform.
 -  **Lead Web Developer:** Engineered the official platform for **Samsung Innovation Campus (SIC) @ RNSIT** and co-developed the **CAT RNSIT / Pantheon 2026** web portal.
 -  **Creative & Media:** Active member of the **Cultural Activity Team (CAT DMC)** & **RNSIT Sports Club Committee** managing video editing, dynamic media production, and digital platforms.
+-  **Award-Winning Project:** Won the prestigious **Best Project Award at INVENTRA-2026** for architecting and building **geoVend** — an IoT-driven smart street vendor management platform.
 -  **Current Focus:** Deepening expertise in Scalable Full-Stack Engineering, PostgreSQL/Supabase, and AI/ML applications.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -134,7 +134,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <div align="center">
 
@@ -149,7 +149,7 @@
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 <div align="center">
 
