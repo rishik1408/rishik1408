@@ -114,19 +114,19 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💡 <a href="https://github.com/rishik1408/FinSense">FinSense AI</a></h3>
+      <h3 align="center">✈️ <a href="https://github.com/rishik1408/AeroTwin-AI">AeroTwin-AI</a></h3>
       <p align="center">
-        <b>Full-Stack Developer</b><br/>
-        <i>AI-Powered Personal Finance Tracker</i>
+        <b>AI & Backend Developer</b><br/>
+        <i>Digital Twin System for MALE UAV Aero-Engines</i>
       </p>
-      <p>Intelligent financial management platform enabling users to track daily income and expenses with automatic categorization and analytics.</p>
+      <p>AI-enabled real-time digital twin system for health monitoring, fault prediction, and mission reliability enhancement of aero-piston engines used in MALE UAVs.</p>
       <ul>
-        <li>Automated expense categorization & spending analysis</li>
-        <li>Personalized budget forecasting & saving recommendations</li>
-        <li>Clean, intuitive dashboard for personal wealth management</li>
+        <li>High-throughput telemetry ingestion with FastAPI & Pydantic</li>
+        <li>Real-time time-series engine data streaming with InfluxDB</li>
+        <li>Virtual engine streamer simulating dynamic UAV flight datasets</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/rishik1408/FinSense"><b>View Repository »</b></a>
+        <a href="https://github.com/rishik1408/AeroTwin-AI"><b>View Repository »</b></a>
       </p>
     </td>
   </tr>
